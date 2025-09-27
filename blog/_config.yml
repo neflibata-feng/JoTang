@@ -106,3 +106,7 @@ deploy:
   type: git
   repository: https://github.com/neflibata-feng/JoTang.git
   branch: gh-pages
+#sitemap
+sitemap:
+  path: sitemap.xml
+

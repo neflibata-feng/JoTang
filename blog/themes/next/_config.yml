@@ -485,7 +485,7 @@ exturl_icon: true
 
 # Google Webmaster tools verification.
 # See: https://developers.google.com/search
-google_site_verification: <meta name="google-site-verification" content="eIdEv9NKfNK36A7q2m4Rwt4iE_mvGSYC0EgYr8d9m20" />
+google_site_verification: eIdEv9NKfNK36A7q2m4Rwt4iE_mvGSYC0EgYr8d9m20
 # Bing Webmaster tools verification.
 # See: https://www.bing.com/webmasters
 bing_site_verification:

@@ -51,8 +51,8 @@ darkmode: false
 # ---------------------------------------------------------------
 
 favicon:
-  small: /images/favicon-32x32.png
-  medium: /images/favicon-64x64.png
+  small: /images/smallFavicon.jpg
+  medium: /images/mediumFavicon.jpg
   #apple_touch_icon: /images/apple-touch-icon-next.png
   #safari_pinned_tab: /images/logo.svg
   #android_manifest: /manifest.json

@@ -903,9 +903,3 @@ css: css
 js: js
 images: images
 
-pwa:
-  enable: true
-  icon: /images/icon.png
-  theme_color: "#000000"
-  background_color: "#ffffff"
-
